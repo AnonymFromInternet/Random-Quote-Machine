@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random-Quote-Machine/static/css/main.b4642296.css",
+    "main.js": "/Random-Quote-Machine/static/js/main.e2410df7.js",
+    "index.html": "/Random-Quote-Machine/index.html",
+    "static/media/twitter-square-brands.svg": "/Random-Quote-Machine/static/media/twitter-square-brands.763ddc74d87be7aa12a1876ea75753d4.svg",
+    "static/media/tumblr-square-brands.svg": "/Random-Quote-Machine/static/media/tumblr-square-brands.54a6b6d67a98c6eb2fc74186795d4780.svg",
+    "main.b4642296.css.map": "/Random-Quote-Machine/static/css/main.b4642296.css.map",
+    "main.e2410df7.js.map": "/Random-Quote-Machine/static/js/main.e2410df7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4642296.css",
+    "static/js/main.e2410df7.js"
+  ]
+}
